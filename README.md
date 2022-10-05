@@ -1,0 +1,1 @@
+This is a study repository that contains demo applications built for learning purposes.
